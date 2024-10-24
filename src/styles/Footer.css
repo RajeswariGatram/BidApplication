@@ -1,0 +1,9 @@
+.container {
+    display: flex;
+  width: 78vw;
+  margin-left: 11vw;
+  margin-right: 11vw;
+  background-color: #000435;
+  height: 15vh;
+  /* justify-content: space-between; */
+}
